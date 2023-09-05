@@ -9,7 +9,7 @@ This webpage was created to help users create a random password using uppercase 
 [Kevin's Module 3 Challenge](https://kbradshaw4.github.io/KB-Module-3-Challenge/)
 
 ## Screenshot 
-![Screenshot of Password Generator](./assets/images/Screenshot%202023-09-05%20at%202.38.33%20PM.png)
+![Screenshot of Password Generator](./assets/images/Screenshot%202023-09-05%20at%203.15.25%20PM.png)
 
 ## Installation
 
